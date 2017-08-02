@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<salads>
+    <salad id="0" name="Винегрет с соленым огурцом">
+        <ingredient>
+            <vegetable>
+                <name>Картофель вареный</name>
+                <caloricvalue>82</caloricvalue>
+                <weight>210</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>true</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Свекла вареная</name>
+                <caloricvalue>49</caloricvalue>
+                <weight>150</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>true</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Соленый огурец</name>
+                <caloricvalue>11</caloricvalue>
+                <weight>210</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Морковь вареная</name>
+                <caloricvalue>25</caloricvalue>
+                <weight>100</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>true</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Лук репчатый</name>
+                <caloricvalue>47</caloricvalue>
+                <weight>150</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <dressing>
+                <name>Масло оливковое</name>
+                <caloricvalue>898</caloricvalue>
+                <weight>50</weight>
+                <unit>мл</unit>
+                <lenten>true</lenten>
+            </dressing>
+            <dressing>
+                <name>Уксус бальзамический</name>
+                <caloricvalue>88</caloricvalue>
+                <weight>50</weight>
+                <unit>мл</unit>
+                <lenten>true</lenten>
+            </dressing>
+            <seasoning>
+                <name>Сахар</name>
+                <caloricvalue>398</caloricvalue>
+                <weight>4</weight>
+                <unit>г</unit>
+                <hotlevel>0</hotlevel>
+            </seasoning>
+            <seasoning>
+                <name>Соль</name>
+                <caloricvalue>0</caloricvalue>г
+                <weight>2</weight>
+                <unit>г</unit>
+                <hotlevel>0</hotlevel>
+            </seasoning>
+            <seasoning>
+                <name>Перец черный молотый</name>
+                <caloricvalue>251</caloricvalue>г
+                <weight>1</weight>
+                <unit>г</unit>
+                <hotlevel>3</hotlevel>
+            </seasoning>
+        </ingredient>
+    </salad>
+    <salad id = "1" name="Весенняя свежесть">
+        <ingredient>
+            <vegetable>
+                <name>Помидор</name>
+                <caloricvalue>20</caloricvalue>
+                <weight>200</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Огурец</name>
+                <caloricvalue>15</caloricvalue>
+                <weight>200</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Редис</name>
+                <caloricvalue>19</caloricvalue>
+                <weight>150</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Укроп</name>
+                <caloricvalue>38</caloricvalue>
+                <weight>10</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <dressing>
+                <name>Йогурт греческий</name>
+                <caloricvalue>66</caloricvalue>
+                <weight>50</weight>
+                <unit>г</unit>
+                <lenten>true</lenten>
+            </dressing>
+            <seasoning>
+                <name>Соль</name>
+                <caloricvalue>0</caloricvalue>г
+                <weight>1</weight>
+                <unit>г</unit>
+                <hotlevel>0</hotlevel>
+            </seasoning>
+            <seasoning>
+                <name>Перец черный молотый</name>
+                <caloricvalue>251</caloricvalue>г
+                <weight>1</weight>
+                <unit>г</unit>
+                <hotlevel>3</hotlevel>
+            </seasoning>
+        </ingredient>
+    </salad>
+    <salad id = "2" name="Салат овощной с майонезом">
+        <ingredient>
+            <vegetable>
+                <name>Помидор</name>
+                <caloricvalue>20</caloricvalue>
+                <weight>80</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Огурец</name>
+                <caloricvalue>15</caloricvalue>
+                <weight>100</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Перец болгарский</name>
+                <caloricvalue>27</caloricvalue>
+                <weight>100</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Капуста пекинская</name>
+                <caloricvalue>16</caloricvalue>
+                <weight>100</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Лук зеленый</name>
+                <caloricvalue>19</caloricvalue>
+                <weight>50</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <vegetable>
+                <name>Укроп</name>
+                <caloricvalue>38</caloricvalue>
+                <weight>10</weight>
+                <unit>г</unit>
+                <preliminaryprocessing>false</preliminaryprocessing>
+            </vegetable>
+            <dressing>
+                <name>Майонез</name>
+                <caloricvalue>627</caloricvalue>
+                <weight>20</weight>
+                <unit>г</unit>
+                <lenten>false</lenten>
+            </dressing>
+            <seasoning>
+                <name>Соль</name>
+                <caloricvalue>0</caloricvalue>г
+                <weight>2</weight>
+                <unit>г</unit>
+                <hotlevel>0</hotlevel>
+            </seasoning>
+            <seasoning>
+                <name>Перец черный молотый</name>
+                <caloricvalue>251</caloricvalue>г
+                <weight>1</weight>
+                <unit>г</unit>
+                <hotlevel>3</hotlevel>
+            </seasoning>
+        </ingredient>
+    </salad>
+</salads>
